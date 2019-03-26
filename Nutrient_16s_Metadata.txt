@@ -1,4 +1,4 @@
-sample_id	Bcode	Barcode	Blasted	Nutrient_Survival	Bleaching_Survival	Genus	Species	Genotype_long	Genotype2	Treatment	Replicate	Fragment	Date	Month	Plate	Sample_Type	Original_Collection	Mote_Genotype	Habitat	Lat	Lon
+sample-id	Bcode	Barcode	Blasted	Nutrient_Survival	Bleaching_Survival	Genus	Species	Genotype_long	Genotype2	Treatment	Replicate	Fragment	Date	Month	Plate	Sample_Type	Original_Collection	Mote_Genotype	Habitat	Lat	Lon
 102-December-RY	515rcbc35	GAGATACAGTTC	No	Yes	No	Acropora	cervicornis	RedandYellow	RY	C	R2	102	12/14/17	December	Plate1	Tissue	7/30/10	50	Midchannel	24.54854	-81.53308
 105-December-RY	515rcbc94	GTGCCATAATCG	No	Yes	Yes	Acropora	cervicornis	RedandYellow	RY	C	R1	105	12/14/17	December	Plate1	Tissue	7/30/10	50	Midchannel	24.54854	-81.53308
 206-December-RY	515rcbc11	AATTCACCTCCT	No	Yes	No	Acropora	cervicornis	RedandYellow	RY	N	R1	206	12/14/17	December	Plate1	Tissue	7/30/10	50	Midchannel	24.54854	-81.53308
