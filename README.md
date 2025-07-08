@@ -1,5 +1,4 @@
-# 🧬 Microbiome Signatures in *Acropora cervicornis*  
-### 📊 Genotypic Resistance to Nutrients & Heat Stress
+# 🧬 Microbiome Signatures in *Acropora cervicornis* genotypes to Nutrients & Heat Stress
 
 This repository contains the files and code used for the publication:
 
@@ -13,7 +12,7 @@ This repository contains the files and code used for the publication:
 ## 📁 Repository Structure
 
 - 📓 **Notebooks**  
-  Jupyter notebooks used for data analysis and figure generation.
+  Jupyter notebooks are used for data analysis and figure generation.
 
 - 🧾 **Metadata**  
   Includes the file `Nutrient_16s_Metadata.txt` used for microbiome data analysis.
